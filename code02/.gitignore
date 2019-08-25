@@ -1,0 +1,11 @@
+# .gitignore
+
+MNIST_data
+MNIST_data/
+
+E:\TensorFlowProject/*
+E:\TensorFlowProject
+E:\TensorFlowProject/
+
+
+

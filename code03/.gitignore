@@ -1,0 +1,8 @@
+# .gitignore
+
+E\:\\TensorFlowProject/*
+MNIST_data/*
+
+output/
+
+
